@@ -15,3 +15,5 @@ Five real-world datasets:
 
 Additional industrial dataset:
 We further provide a dataset for industrial measurement. There are in total of 77 images that either come from different industrial components or come from different perspectives of the same component. 
+
+All datasets contain original images in the xx/images and GT in the xx/gt, and we also unify the GT format as gt_imageName.txt, hoping can be easy use for more people.
