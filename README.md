@@ -14,9 +14,9 @@ Public datasets for ellipse detection usually have different formats, such as th
 6. Dataset Calibration. This dataset is used for camera calibration, despite only containing 40 images, there are at least 70 ellipses in each image. The original image is .pgm format, which usually cannot be opened. We transform the .pgm to .jpg for easier use.
 
 ## Additional industrial dataset:
-We further provide a dataset for industrial measurement. There are in total of 77 images that either come from different industrial components or come from different perspectives of the same component. 
+We further provide a dataset for industrial measurement purpose. There are in total of 77 images that either come from different industrial components or come from different perspectives of the same component. 
 
-All datasets contain original images are in the xx/images and GT in the xx/gt. We also unify the GT format as gt_imageName.txt, hoping to be used for more people.
+All datasets contain original images in the 'xx/images' format and the GT in the 'xx/gt' format. We also unify the GT format as 'gt_imageName.txt', hoping to be easier used for more people.
 
 # Acknowledgements
-Since most datasets are provided by previous authors, we give great thanks to Dr. Dilip K.Prasad, Dr. Michele Fornaciari, Dr. Qi Jia, Dr. Changsheng Lu, Dr. Viorica Pătrăucean, and Dr. Alex Yong-Sang Chia. Thank you very much for sharing such useful datasets. 
+Since most datasets are provided by previous authors, we give great thanks to Dr. Dilip K.Prasad, Dr. Michele Fornaciari, Dr. Qi Jia, Dr. Changsheng Lu, Dr. Viorica Pătrăucean, and Dr. Alex Yong-Sang Chia. Thank you very much for the efforts and sharing such useful datasets. 
