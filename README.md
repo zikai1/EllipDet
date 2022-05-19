@@ -19,4 +19,4 @@ We further provide a dataset for industrial measurement purpose. There are in to
 All datasets contain original images in the 'xx/images' format and the GT in the 'xx/gt' format. We also unify the GT format as 'gt_imageName.txt', hoping to be easier used for more people.
 
 # Acknowledgements
-Since most datasets are provided by previous authors, we give great thanks to Dr. Dilip K. Prasad, Dr. Michele Fornaciari, Dr. Qi Jia, Dr. Changsheng Lu, Dr. Viorica Pătrăucean, and Dr. Alex Yong-Sang Chia. Thank you very much for the efforts and sharing such useful datasets. 
+Since most datasets are provided by previous authors, we give great thanks to Dr. Dilip K. Prasad, Dr. Michele Fornaciari, Dr. Qi Jia, Dr. Changsheng Lu, Dr. Viorica Pătrăucean, and Dr. Alex Yong-Sang Chia. Thank them very much for the efforts and sharing such useful datasets. If you use the above datasets, please cite their papers.
