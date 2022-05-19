@@ -7,8 +7,7 @@ Public datasets for ellipse detection usually have different formats, such as th
 2. Overlapping dataset. It also contains 600 images, and each image has {4, 8, 12, 16, 20, 24} ellipses. We also transform the .mat format to the .jpg format.
 
 ## Five real-world datasets:
-1. Dataset Prasad. The original dataset contains 400 images from 48 categories in the Caltech256 dataset, however, there are only 198 images remained. To boost the development of ellipse detection algorithms, we complete the missing images according to the file provided by Prof. Prasad, hence there are 400 images. All ground truth 
-2. are labeled by ourselves manually and precisely.
+1. Dataset Prasad. The original dataset contains 400 images from 48 categories in the Caltech256 dataset, however, there are only 198 images remained. To boost the development of ellipse detection algorithms, we complete the missing images according to the file provided by Prof. Prasad, hence there are 400 images. All ground truth are labeled by ourselves manually and precisely.
 3. Dataset #1. A multi-class dataset contains 400 images from the MIRFlickr and LabelMe repositories.
 4. Dataset #2. This dataset containing 629 images is collected from several videos.
 5. Dataset PCB. A printed circuit board dataset contains 100 images.
